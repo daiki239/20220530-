@@ -23,21 +23,21 @@
 .relative__img {position: relative;
   z-index: 100;
   width: 50%;
-  top: 200px;
-  margin: 20% 100% auto;
+  top: 15vw;
+  margin: 10vw 65vw;
 }
 
 .absolute {
   position: absolute;
-  width: 120%;
-  height: 45%;
-  top: 110%;
+  width: 80vw;
+  height: 20vw;
+  top: 40vw;
     background-color: rgb(68, 0, 255);
     z-index: 0;
 }
 
 .ttl{position: absolute;
-  top: 100%;
+  top: 35vw;
   font-size: 50px;
 
 }
