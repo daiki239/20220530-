@@ -30,9 +30,10 @@ li{width: 90px;
 
 .relative__img {position: relative;
   z-index: 100;
-  width: 50%;
+  width: 70%;
   top: 15vw;
-  margin: 10vw 65vw;
+  margin: 10vw;
+  margin-left: 70%;
 }
 
 .absolute {
