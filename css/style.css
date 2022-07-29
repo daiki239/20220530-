@@ -2,7 +2,7 @@
   flex-direction: row;
   color: mediumblue;
   padding-top: 3%;
-  
+  justify-content: space-between;
  }
 
 .card__content-tag-item {
@@ -12,14 +12,15 @@
   font-weight: bold;
 
 }
-li{margin-left: 20px;}
+li{width: 90px;
+  }
 .card__content-tag-item--last {
   display: row;
   margin-left: 60%;
   color: #1d20c8;
   font-size: 15px;
   list-style: none;
-
+　width: 100%;
 }
 
 .relative {
